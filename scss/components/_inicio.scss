@@ -1,0 +1,45 @@
+/*  PARTE DOS PAGINA PRINCIPAL*/
+.titulo-partedos {
+  align-items: center;
+  text-align: center;
+  margin: 50px;
+  color: burlywood;
+}
+
+.container-cards {
+  display: flex;
+  gap: 50px;
+  margin: 50px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 10px;
+}
+
+.cards .card .btn:hover {
+  background-color: burlywood;
+}
+
+.boton-principalproductos {
+  align-items: center;
+  text-align: center;
+  margin: 50px 50px;
+}
+
+.boton-principalproductos .btn:hover {
+  background-color: burlywood;
+}
+
+/*  PARTE SUSBRIBITE  */
+.formulario-suscribite .suscribite {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+.formulario-suscribite .suscribite-nombre {
+  box-shadow: 1px 1px 1px 1px;
+  border: 53x;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+}
